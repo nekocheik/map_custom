@@ -1,0 +1,32 @@
+{
+  "name": "projet_fil_rouge_map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "json-server --watch db.json",
+    "generate-docs": "node_modules/.bin/jsdoc -c jsdoc.json",
+    "dev": "parcel ./index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nekocheik/map_custom.git"
+  },
+  "author": "veggiemonk <julien.bisconti@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nekocheik/map_custom/issues"
+  },
+  "homepage": "https://github.com/nekocheik/map_custom#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-plugin-jsdoc": "^20.4.0",
+    "parcel": "^1.12.4",
+    "sass": "^1.25.0"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "docdash": "^1.1.1"
+  }
+}

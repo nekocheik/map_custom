@@ -1,0 +1,144 @@
+{
+  "departement": [
+    {
+      "hopitaux": "1",
+      "maladie": "3",
+      "total": "13",
+      "name": "1_departement",
+      "number": "1"
+    },
+    {
+      "hopitaux": "0",
+      "maladie": "6",
+      "total": "06",
+      "name": "2_departement",
+      "number": "2"
+    },
+    {
+      "hopitaux": "0",
+      "maladie": "8",
+      "total": "08",
+      "name": "3_departement",
+      "number": "3"
+    },
+    {
+      "hopitaux": "2",
+      "maladie": "2",
+      "total": "22",
+      "name": "4_departement",
+      "number": "4"
+    },
+    {
+      "hopitaux": "1",
+      "maladie": "8",
+      "total": "18",
+      "name": "5_departement",
+      "number": "5"
+    },
+    {
+      "hopitaux": "0",
+      "maladie": "7",
+      "total": "07",
+      "name": "6_departement",
+      "number": "6"
+    },
+    {
+      "hopitaux": "1",
+      "maladie": "4",
+      "total": "14",
+      "name": "7_departement",
+      "number": "7"
+    },
+    {
+      "hopitaux": "1",
+      "maladie": "8",
+      "total": "18",
+      "name": "8_departement",
+      "number": "8"
+    },
+    {
+      "hopitaux": "1",
+      "maladie": "8",
+      "total": "18",
+      "name": "9_departement",
+      "number": "9"
+    },
+    {
+      "hopitaux": "1",
+      "maladie": "4",
+      "total": "14",
+      "name": "10_departement",
+      "number": "10"
+    },
+    {
+      "hopitaux": "2",
+      "maladie": "8",
+      "total": "28",
+      "name": "11_departement",
+      "number": "11"
+    },
+    {
+      "hopitaux": "1",
+      "maladie": "9",
+      "total": "19",
+      "name": "12_departement",
+      "number": "12"
+    },
+    {
+      "hopitaux": "1",
+      "maladie": "7",
+      "total": "17",
+      "name": "13_departement",
+      "number": "13"
+    },
+    {
+      "hopitaux": "1",
+      "maladie": "6",
+      "total": "16",
+      "name": "14_departement",
+      "number": "14"
+    },
+    {
+      "hopitaux": "2",
+      "maladie": "8",
+      "total": "28",
+      "name": "15_departement",
+      "number": "15"
+    },
+    {
+      "hopitaux": "1",
+      "maladie": "9",
+      "total": "19",
+      "name": "16_departement",
+      "number": "16"
+    },
+    {
+      "hopitaux": "0",
+      "maladie": "3",
+      "total": "03",
+      "name": "17_departement",
+      "number": "17"
+    },
+    {
+      "hopitaux": "2",
+      "maladie": "2",
+      "total": "22",
+      "name": "18_departement",
+      "number": "18"
+    },
+    {
+      "hopitaux": "1",
+      "maladie": "3",
+      "total": "13",
+      "name": "19_departement",
+      "number": "19"
+    },
+    {
+      "hopitaux": "1",
+      "maladie": "5",
+      "total": "15",
+      "name": "20_departement",
+      "number": "20"
+    }
+  ]
+}
