@@ -1,73 +1,73 @@
-// /map_custom/data/all.txt 
-// /map_custom/data/collection/dto/collection.dto.ts 
-// /map_custom/data/collection/collection.helpers.ts 
-// /map_custom/data/collection/collection.controller.ts 
-// /map_custom/data/collection/collection.module.ts 
-// /map_custom/data/collection/schemas/collection.schema.ts 
-// /map_custom/data/collection/schemas/collection.filters.ts 
-// /map_custom/data/collection/collection.service.ts 
-// /map_custom/data/collection/collection.market.ts 
-// /map_custom/data/nft/dto/nft.dto.ts 
-// /map_custom/data/nft/nft.controller.spec.ts 
-// /map_custom/data/nft/nft.market.ts 
-// /map_custom/data/nft/nft.service.ts 
-// /map_custom/data/nft/nft.controller.ts 
-// /map_custom/data/nft/schemas/nft.schema.ts 
-// /map_custom/data/nft/schemas/nft.filters.ts 
-// /map_custom/data/nft/nft.module.ts 
-// /map_custom/data/auth/auth.service.ts 
-// /map_custom/data/auth/strategies/jwt.strategy.ts 
-// /map_custom/data/auth/strategies/local.strategy.ts 
-// /map_custom/data/auth/auth.module.ts 
-// /map_custom/data/auth/guards/jwt-auth.guard.ts 
-// /map_custom/data/auth/guards/local-auth.guard.ts 
-// /map_custom/data/scrap.bash 
-// /map_custom/data/all.ts 
-// /map_custom/data/elrond-api/elrond-api.controller.ts 
-// /map_custom/data/elrond-api/elrond-api.module.ts 
-// /map_custom/data/elrond-api/elrond-api.controller.spec.ts 
-// /map_custom/data/elrond-api/elrond-api.service.ts 
-// /map_custom/data/stats/stats.controller.spec.ts 
-// /map_custom/data/stats/stats.controller.ts 
-// /map_custom/data/stats/stats.module.ts 
-// /map_custom/data/stats/stats.service.ts 
-// /map_custom/data/collection/dto/collection.dto.ts 
-// /map_custom/data/collection/collection.helpers.ts 
-// /map_custom/data/collection/collection.controller.ts 
-// /map_custom/data/collection/collection.module.ts 
-// /map_custom/data/collection/schemas/collection.schema.ts 
-// /map_custom/data/collection/schemas/collection.filters.ts 
-// /map_custom/data/collection/collection.service.ts 
-// /map_custom/data/collection/collection.market.ts 
-// /map_custom/data/collection/dto/collection.dto.ts 
-// /map_custom/data/collection/schemas/collection.schema.ts 
-// /map_custom/data/collection/schemas/collection.filters.ts 
-// /map_custom/data/nft/dto/nft.dto.ts 
-// /map_custom/data/nft/nft.controller.spec.ts 
-// /map_custom/data/nft/nft.market.ts 
-// /map_custom/data/nft/nft.service.ts 
-// /map_custom/data/nft/nft.controller.ts 
-// /map_custom/data/nft/schemas/nft.schema.ts 
-// /map_custom/data/nft/schemas/nft.filters.ts 
-// /map_custom/data/nft/nft.module.ts 
-// /map_custom/data/nft/dto/nft.dto.ts 
-// /map_custom/data/nft/schemas/nft.schema.ts 
-// /map_custom/data/nft/schemas/nft.filters.ts 
-// /map_custom/data/auth/auth.service.ts 
-// /map_custom/data/auth/strategies/jwt.strategy.ts 
-// /map_custom/data/auth/strategies/local.strategy.ts 
-// /map_custom/data/auth/auth.module.ts 
-// /map_custom/data/auth/guards/jwt-auth.guard.ts 
-// /map_custom/data/auth/guards/local-auth.guard.ts 
-// /map_custom/data/auth/strategies/jwt.strategy.ts 
-// /map_custom/data/auth/strategies/local.strategy.ts 
-// /map_custom/data/auth/guards/jwt-auth.guard.ts 
-// /map_custom/data/auth/guards/local-auth.guard.ts 
-// /map_custom/data/elrond-api/elrond-api.controller.ts 
-// /map_custom/data/elrond-api/elrond-api.module.ts 
-// /map_custom/data/elrond-api/elrond-api.controller.spec.ts 
-// /map_custom/data/elrond-api/elrond-api.service.ts 
-// /map_custom/data/stats/stats.controller.spec.ts 
-// /map_custom/data/stats/stats.controller.ts 
-// /map_custom/data/stats/stats.module.ts 
-// /map_custom/data/stats/stats.service.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/all.txt 
+https://github.com/nekocheik/map_custom/tree/master/data/collection/dto/collection.dto.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/collection/collection.helpers.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/collection/collection.controller.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/collection/collection.module.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/collection/schemas/collection.schema.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/collection/schemas/collection.filters.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/collection/collection.service.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/collection/collection.market.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/nft/dto/nft.dto.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/nft/nft.controller.spec.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/nft/nft.market.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/nft/nft.service.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/nft/nft.controller.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/nft/schemas/nft.schema.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/nft/schemas/nft.filters.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/nft/nft.module.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/auth/auth.service.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/auth/strategies/jwt.strategy.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/auth/strategies/local.strategy.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/auth/auth.module.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/auth/guards/jwt-auth.guard.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/auth/guards/local-auth.guard.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/scrap.bash 
+https://github.com/nekocheik/map_custom/tree/master/data/all.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/elrond-api/elrond-api.controller.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/elrond-api/elrond-api.module.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/elrond-api/elrond-api.controller.spec.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/elrond-api/elrond-api.service.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/stats/stats.controller.spec.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/stats/stats.controller.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/stats/stats.module.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/stats/stats.service.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/collection/dto/collection.dto.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/collection/collection.helpers.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/collection/collection.controller.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/collection/collection.module.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/collection/schemas/collection.schema.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/collection/schemas/collection.filters.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/collection/collection.service.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/collection/collection.market.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/collection/dto/collection.dto.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/collection/schemas/collection.schema.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/collection/schemas/collection.filters.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/nft/dto/nft.dto.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/nft/nft.controller.spec.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/nft/nft.market.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/nft/nft.service.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/nft/nft.controller.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/nft/schemas/nft.schema.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/nft/schemas/nft.filters.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/nft/nft.module.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/nft/dto/nft.dto.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/nft/schemas/nft.schema.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/nft/schemas/nft.filters.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/auth/auth.service.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/auth/strategies/jwt.strategy.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/auth/strategies/local.strategy.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/auth/auth.module.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/auth/guards/jwt-auth.guard.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/auth/guards/local-auth.guard.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/auth/strategies/jwt.strategy.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/auth/strategies/local.strategy.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/auth/guards/jwt-auth.guard.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/auth/guards/local-auth.guard.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/elrond-api/elrond-api.controller.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/elrond-api/elrond-api.module.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/elrond-api/elrond-api.controller.spec.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/elrond-api/elrond-api.service.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/stats/stats.controller.spec.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/stats/stats.controller.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/stats/stats.module.ts 
+https://github.com/nekocheik/map_custom/tree/master/data/stats/stats.service.ts 

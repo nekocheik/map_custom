@@ -16,10 +16,10 @@ for dir in $(find $root_dir -type d); do
     # Parcourir tous les fichiers dans chaque dossier
     for file in $(find $dir -type f); do
         # Obtenir le chemin relatif du fichier
-        file_path=$(realpath $file | sed "s|$root_dir/||" | sed "s|/Usercheikkone||")
+        file_path=$(realpath $file | sed "s|$root_dir/||" | sed "s|/Usercheikkone||" | sed "s|/map_custom||")
         if [ "$file_path" != "all.txt" ]; then
             # Ajouter le chemin relatif du fichier au début du fichier
-            echo "// $file_path " >> all.txt
+            echo "https://github.com/nekocheik/map_custom/tree/master$file_path " >> all.txt
         fi
     done
 done
